@@ -1,0 +1,7 @@
+{
+  "cities": [
+    {"name": "Paris", "country": "France", "description": "The City of Light"},
+    {"name": "Tokyo", "country": "Japan", "description": "A bustling metropolis"},
+    {"name": "New York", "country": "USA", "description": "The Big Apple"}
+  ]
+}
